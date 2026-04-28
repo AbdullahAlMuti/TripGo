@@ -1,0 +1,13 @@
+Group : 8        Sec : L
+-------------------------------
+Project : TripGo
+-------------------------------
+
+Student Name : Rahul Dutta
+ID 	     : 22-47576-2
+Roll         : 11
+-------------------------------
+Student Name : Md. Abdullah AL Muti
+ID 	     : 22-47605-2
+Roll         : 30
+
